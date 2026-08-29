@@ -1,4 +1,4 @@
-# The Index — A Startup Showcase
+# The Index — A Startup pitch registration page
 
 A responsive, static webpage for browsing early-stage startups, styled as a
 library card catalog. Built with plain HTML, CSS, and JavaScript — no
