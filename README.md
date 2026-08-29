@@ -206,62 +206,7 @@ Because this is a static website, it can be deployed easily using:
 * Netlify
 * Cloudflare Pages
 
-### GitHub Pages
 
-1. Push the project to GitHub.
-2. Open the repository.
-3. Go to:
-
-```text
-Settings → Pages
-```
-
-4. Select the `main` branch.
-5. Select the root folder `/`.
-6. Click **Save**.
-7. GitHub will generate your website URL.
-
----
-
-## 📤 GitHub Submission
-
-Initialize Git:
-
-```bash
-git init
-```
-
-Add project files:
-
-```bash
-git add .
-```
-
-Commit:
-
-```bash
-git commit -m "Create Ignite E-Cell startup showcase"
-```
-
-Set the main branch:
-
-```bash
-git branch -M main
-```
-
-Connect your GitHub repository:
-
-```bash
-git remote add origin YOUR_GITHUB_REPOSITORY_URL
-```
-
-Push the project:
-
-```bash
-git push -u origin main
-```
-
----
 
 ## 🔮 Future Improvements
 
@@ -286,30 +231,6 @@ git push -u origin main
 
 Contributions are welcome.
 
-### Create a branch
-
-```bash
-git checkout -b feature/your-feature
-```
-
-### Make your changes
-
-Then:
-
-```bash
-git add .
-git commit -m "Add your feature"
-```
-
-### Push your branch
-
-```bash
-git push origin feature/your-feature
-```
-
-Then create a Pull Request on GitHub.
-
----
 
 ## 📄 License
 
