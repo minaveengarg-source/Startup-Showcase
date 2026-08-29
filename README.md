@@ -1,4 +1,4 @@
-# 🚀 Ignite E-Cell — Startup Showcase
+# 🚀  E-Cell — Startup Showcase
 
 A modern, responsive **Startup Showcase & Directory** website built with **HTML5, CSS3, and Vanilla JavaScript**.
 
